@@ -60,7 +60,7 @@ There are three sketches - examples enclosed:
 
 ### Rosette
 
-<video src="./images/rosette.mp4" controls>Rosette</video>
+Short video is here ./images/rosette.mp4
 
 ![Rosette](./images/rosette-m.jpg "Rosette")
 
