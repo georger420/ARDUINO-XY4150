@@ -17,7 +17,7 @@ I used it also for connection of plotter to Arduino, so two female DB9 conectors
 
 Scheme:
 
-![Scheme](./images/Arduino-XY4150-01_schem.png "Scheme")
+<img src="./images/Arduino-XY4150-01_schem.png" maxwidth="50%">
 
 Wiring using breadboard:
 
