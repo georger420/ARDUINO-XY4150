@@ -60,13 +60,13 @@ There are three sketches - examples enclosed:
 
 ### Rosette
 
-Short video is here ./images/rosette.mp4
+Short video "rosette.mp4" is in "images" subdirectory.
 
 ![Rosette](./images/rosette-m.jpg "Rosette")
 
 ### ASCII table
 
-<video src="./images/ascii-table.mp4" controls>ASCII table</video>
+Short video "ascii-table.mp4" is in "images" subdirectory.
 
 ![ASCII table](./images/ascii-table-m.jpg "ASCII table")
 
