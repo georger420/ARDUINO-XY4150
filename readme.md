@@ -17,7 +17,7 @@ I used it also for connection of plotter to Arduino, so two female DB9 conectors
 
 Scheme:
 
-<img src="./images/Arduino-XY4150-01_schem.png" maxwidth="50%">
+<img src="./images/Arduino-XY4150-01_schem.png" width="500" height="700">
 
 Wiring using breadboard:
 
