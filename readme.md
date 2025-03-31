@@ -21,7 +21,7 @@ Scheme:
 
 Wiring using breadboard:
 
-<img src="./images/Arduino-XY4150-01_bb.png" width="1000" height="450">
+<img src="./images/Arduino-XY4150-01_bb.png" width="500" height="225">
 
 Real device:
 
