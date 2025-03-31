@@ -17,11 +17,11 @@ I used it also for connection of plotter to Arduino, so two female DB9 conectors
 
 Scheme:
 
-<img src="./images/Arduino-XY4150-01_schem.png" width="500" height="700">
+<img src="./images/Arduino-XY4150-01_schem.png" width="250" height="350">
 
 Wiring using breadboard:
 
-![Arduino - XY4150 connection](./images/Arduino-XY4150-01_bb.png "Arduino - XY4150 connection")
+<img src="./images/Arduino-XY4150-01_bb.png" width="1000" height="450">
 
 Real device:
 
