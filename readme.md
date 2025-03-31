@@ -35,7 +35,7 @@ Arduino - XY4150 direc connection:
 | MOV | 2  | 28 | - |
 | X/Y |  3 | 24 | - |
 | +/-  |  4 | 26 | - |
-| Ready In | 5  | 30 | place resistor 2k2 between 30 and 32 Aruino pins |
+| Ready In | 5  | 30 | place resistor 2k2 between 30 and 32 Arduino pins |
 | Ready Out | 5  | 32 | - | 
 | Ground  | 6  |  GND | - |
 | Unused  |  7 | -  | - |
